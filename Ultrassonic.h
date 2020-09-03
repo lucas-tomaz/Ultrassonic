@@ -1,6 +1,6 @@
 #ifndef Ultrassonic_h
 #define Ultrassonic_h
-#include <LICENSE>
+#include "Arduino.h"
 
 class Ultrassonic{
 	public:
